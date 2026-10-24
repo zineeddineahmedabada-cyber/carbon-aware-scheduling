@@ -1,0 +1,6 @@
+task_id,release_hour,duration_hours,power_kw,deadline_hour
+T01,0,2,4.0,8
+T02,2,3,6.0,12
+T03,5,1,3.0,10
+T04,8,2,5.0,18
+T05,10,3,4.0,22
